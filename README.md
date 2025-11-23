@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="logo.png" alt="MCP Shark Logo" width="200"/>
-  
-  # Smart Scan - Issue Tracker
-  
-  [![Website](https://img.shields.io/badge/Website-smart.mcpshark.sh-blue)](https://smart.mcpshark.sh)
+  <img src="https://smart.mcpshark.sh/icon_512x512.png" alt="MCP Shark Logo" width="128" height="128">
+  <h1>Smart Scan - Issue Tracker</h1>
+  <p>Issue tracking and community feedback for smart.mcpshark.sh</p>
 </div>
 
 This repository is dedicated to tracking issues, bug reports, and feature requests for [smart.mcpshark.sh](https://smart.mcpshark.sh) and its features.
